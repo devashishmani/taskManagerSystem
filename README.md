@@ -39,8 +39,8 @@ Deployment:
 * Frontend: Netlify 
 * Database: MongoDB Atlas
 
-API Base URL:
-https://taskmanger-production-76c9.up.railway.app/api
+link
+deft-salmiakki-23b73a.netlify.app
 
 Installation (Local Setup):
 
